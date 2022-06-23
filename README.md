@@ -7,5 +7,5 @@ The 3 parts correspond to the techniques used to do this:
 - 3rd part was done using transformers (using the BERT Model)
 
 <p align="center">
-       <img src="https://i.imgur.com/GElcPJq.jpeg" width="600" height="300" alt="Layout of the website">
+       <img src="https://i.imgur.com/GElcPJq.jpeg" width="700" height="300" alt="Layout of the website">
 </p>
